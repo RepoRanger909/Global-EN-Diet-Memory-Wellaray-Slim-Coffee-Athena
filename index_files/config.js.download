@@ -1,0 +1,6 @@
+window.CHECKOUT_URL = "https://trk.essiock.com/click?lp=1";
+window.FACEBOOK_PIXEL_ID = "997399443209152";
+window.FACEBOOK_PIXEL_IDS = ["997399443209152"];
+window.GOOGLE_CONVERSIONS = [];
+window.LP_QUIZ_MODE = true;
+
